@@ -8,6 +8,17 @@ const items = [
     title: "D3D Animation",
     detail: "Coursework in 3D animation, storyboarding",
   },
+  {
+    time: "2022 — 2025",
+    title: "IIHM, Kolkata",
+    detail: "Indian Institute of Hotel Management",
+  },
+  {
+    time: "2022",
+    title: "Schooling",
+    detail: "Completed Schooling (10 , 12th) from K.D.I East Burdwan",
+  },
+
 ];
 
 export default function Timeline() {

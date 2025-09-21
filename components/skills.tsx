@@ -13,6 +13,11 @@ const skills = [
     icon: Sparkles,
     info: "3D Texturing & Painting",
   },
+  {
+    label: "3DS Max",
+    icon: Cpu,
+    info: "3D Modeling",
+  },
 ];
 
 export default function Skills() {

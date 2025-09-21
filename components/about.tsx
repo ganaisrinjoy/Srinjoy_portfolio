@@ -143,11 +143,12 @@ export default function About() {
             */}
             <motion.div variants={item} className="mt-6 flex flex-wrap gap-2">
               {[
-                "Blender",
-                "After Effects",
+                "Auto desk Maya",
+                "3DS max",
+                "Adobe Subtancepainter",
                 "Photoshop",
                 "Premiere Pro",
-                "2D/3D Animation",
+                "3D Animation",
               ].map((skill) => (
                 <span
                   key={skill}

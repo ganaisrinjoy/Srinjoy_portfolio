@@ -15,32 +15,39 @@ type Item = {
 const items: Item[] = [
   {
     id: "1",
-    title: "Character Walk Cycle",
+    title: "Garbage Street",
     kind: "image",
     src: "/SAVE_20250328_034214.jpg",
     poster: "/walk-cycle-poster.jpg",
-    description: "Timing and weight study in Blender.",
+    description: "3D modeling of Garbage Street",
   },
   {
     id: "2",
-    title: "Title Sequence (Motion)",
+    title: "Krishna",
     kind: "image",
     src: "/SAVE_20250711_021411.jpg",
-    description: "After Effects kinetic typography exploration.",
+    description: "2D drawing of krishna in photoshop",
   },
   {
     id: "3",
-    title: "Stylized Short Clip",
+    title: "Old Cash Machine",
     kind: "image",
     src: "/SAVE_20250813_153447.jpg",
-    description: "Color-driven storytelling with sound sync.",
+    description: "Old 3D cash machine create in 3DS max",
   },
   {
     id: "4",
-    title: "Environment Flythrough",
+    title: "Ghost Kitchen",
     kind: "image",
     src: "/SAVE_20250430_170257.jpg",
-    description: "Lighting and camera practice in 3D.",
+    description: "Horror Theme kitchen Created in Max",
+  },
+  {
+    id: "5",
+    title: "Dream Station",
+    kind: "image",
+    src: "/room render ps 1.jpg",
+    description: "Where Imagination meet Passion, created in Maya",
   },
 ];
 

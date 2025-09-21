@@ -65,7 +65,7 @@ export default function Hero() {
             </motion.p>
 
             {/* Description */}
-            <motion.p
+            {/* <motion.p
               variants={item}
               className="mt-6 max-w-2xl text-slate-400 leading-relaxed"
             >
@@ -73,7 +73,7 @@ export default function Hero() {
               <span className="text-slate-200 font-semibold">motion design</span> with a focus on{" "}
               <span className="text-cyan-300">storytelling, timing,</span> and{" "}
               <span className="text-cyan-300">visual rhythm</span>.
-            </motion.p>
+            </motion.p> */}
 
             {/* Buttons */}
             <motion.div
